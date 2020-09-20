@@ -39,3 +39,7 @@ The markdown for this example is:
 - We are going to have a walk in the park with [name=dumbledore]
 - This has been apprechiated by [name=Linus]
 ```
+
+## License
+
+Released under the [BSD-3-Clause](LICENSE) by [Moritz 'e1mo' Fromm](https://github.com/e1mo/)
