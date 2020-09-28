@@ -12,7 +12,6 @@ nametag_re = r"\[name=([a-zA-Z0-9]+)\]"
 
 def replace_wikilinks(elem, doc):
     if isinstance(elem, Link):
-        debug(elem.content)
         if elem.title == 'wikilink':
             debug(stringify(elem))
 
